@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.Form1.resources
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.Properties.Resources.resources
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NoScript\NoScript\bin\Debug\NoScript.exe.config
+C:\Users\user\source\repos\NoScript\NoScript\bin\Debug\NoScript.exe
+C:\Users\user\source\repos\NoScript\NoScript\bin\Debug\NoScript.pdb
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.exe
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.pdb
+C:\Users\user\source\repos\NoScript\NoScript\obj\Debug\NoScript.exe.config
