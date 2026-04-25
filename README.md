@@ -37,16 +37,3 @@
 ---
 ![ScreenShot of NeoScript IDE](screenshot.png)
 
-## 📖 أمثلة من الكود (Code Snippets)
-يمكنك كتابة كود مثل هذا في المحرر:
-```neo
-Define string name Init "Marwan";
-Define int score Init 90;
-
-Check (score >= 50) Do
-   Invoke Print("Passed!");
-Otherwise Do
-   Invoke Print("Failed!");
-Done;
-
-
