@@ -35,7 +35,7 @@
 
 
 ---
-![ScreenShot of NeoScript IDE](Screenshot 2026-04-25 210820.png)
+![ScreenShot of NeoScript IDE](screenshot.png)
 
 ## 📖 أمثلة من الكود (Code Snippets)
 يمكنك كتابة كود مثل هذا في المحرر:
