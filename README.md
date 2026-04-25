@@ -33,6 +33,7 @@
 - **Engine:** Regular Expressions (Regex) لعملية الـ Parsing والتحليل اللغوي.
 - **Logic:** DataTable Compute API للمعالجات الرياضية.
 
+
 ---
 
 ## 📖 أمثلة من الكود (Code Snippets)
@@ -46,3 +47,6 @@ Check (score >= 50) Do
 Otherwise Do
    Invoke Print("Failed!");
 Done;
+
+
+![ScreenShot of NeoScript IDE](Screenshot 2026-04-25 210820.png)
